@@ -13,8 +13,7 @@
 
 **Description**: You could disable, lock dimensions behind permissions nodes, and much more. all within a single plugin.​
 
----
-## Information:
+-
 
 **Download at** [Spigot](https://www.spigotmc.org/resources/lockeddimension-1-8-8-1-16-3-have-freedom-over-your-dimensions.84331/)
 
@@ -37,8 +36,7 @@
 
 **Description**: You could disable, lock dimensions behind permissions nodes, and much more. all within a single plugin.​
 
----
-## Information:
+-
 
 **Download at** [Spigot](https://www.spigotmc.org/resources/mobpreventer-1-8-8-1-16-3-prevent-mobs-from-spawning-into-your-world.84308/)
 
@@ -61,8 +59,7 @@
 
 **Description**: You could disable, lock dimensions behind permissions nodes, and much more. all within a single plugin.​
 
----
-## Information:
+-
 
 **Download at** [Spigot](https://www.spigotmc.org/resources/mobpreventer-1-8-8-1-16-3-prevent-mobs-from-spawning-into-your-world.84308/)
 
