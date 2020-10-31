@@ -5,9 +5,10 @@
 ### Public Projects
 
 ---
-
-![Image of LockedDimension](https://cdn.discordapp.com/attachments/772170600033681419/772170644771176458/LockedDimension_bannar.png) <img src=https://badges.spiget.org/resources/version/Version-blue-84331.svg>
+<img src=https://badges.spiget.org/resources/version/Version-blue-84331.svg>
 <img src=https://badges.spiget.org/resources/downloads/Downloads-blue-84331.svg>
+![Image of LockedDimension](https://cdn.discordapp.com/attachments/772170600033681419/772170644771176458/LockedDimension_bannar.png) 
+
 
 **Name**: LockedDimension
 
@@ -15,7 +16,7 @@
 
 **Version Supported**: 1.8.9 - 1.16.3
 
----
+--- 
 
 **Available at**: [Spigot](https://www.spigotmc.org/resources/lockeddimension-1-8-8-1-16-3-have-freedom-over-your-dimensions.84331/)
 
@@ -25,11 +26,10 @@
 
 
 
-
 ---
-
-![Image of MobPreventer](https://cdn.discordapp.com/attachments/772170600033681419/772171440756883496/mobpreventer_banner.png)<img src=https://badges.spiget.org/resources/version/Version-blue-84308.svg>
+<img src=https://badges.spiget.org/resources/version/Version-blue-84308.svg>
 <img src=https://badges.spiget.org/resources/downloads/Downloads-blue-84308.svg>
+![Image of MobPreventer](https://cdn.discordapp.com/attachments/772170600033681419/772171440756883496/mobpreventer_banner.png)
 
 **Name**: MobPreventer
 
@@ -47,10 +47,9 @@
 
 ---
 
-
-![Image of EntityRiding](https://cdn.discordapp.com/attachments/772170600033681419/772171802767523840/entityriding_bannar.png)
 <img src=https://badges.spiget.org/resources/version/Version-blue-84332.svg>
 <img src=https://badges.spiget.org/resources/downloads/Downloads-blue-84332.svg>
+![Image of EntityRiding](https://cdn.discordapp.com/attachments/772170600033681419/772171802767523840/entityriding_bannar.png)
 
 **Name**: EntityRiding
 
