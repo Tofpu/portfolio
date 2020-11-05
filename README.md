@@ -13,7 +13,7 @@
 
 **Description**: You could disable, lock dimensions behind permissions nodes, and much more. all within a single plugin.​
 
-**Version Supported**: 1.8.9 - 1.16.3
+**Version Supported**: 1.8.9 - 1.16.X
 
 --- 
 
@@ -31,7 +31,7 @@
 
 **Description**: A plugin which its purpose is to prevent certain mobs from spawning into your world.​
 
-**Version Supported**: 1.8.9 - 1.16.3
+**Version Supported**: 1.8.9 - 1.16.X
 
 ---
 
@@ -47,7 +47,7 @@
 
 **Description**: Gives the players the ability to ride on entities. such as mobs, creatures, players. etc etc.​
 
-**Version Supported**: 1.8.9 - 1.16.3
+**Version Supported**: 1.8.9 - 1.16.X
 
 ---
 
