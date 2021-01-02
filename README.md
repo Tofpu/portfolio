@@ -31,7 +31,7 @@
 
 **Description**: A plugin which its purpose is to prevent certain mobs from spawning into your world.​
 
-**Version Supported**: 1.8.9 - 1.16.X
+**Version Supported**: 1.8.8 - 1.16.X
 
 ---
 
@@ -47,13 +47,29 @@
 
 **Description**: Gives the players the ability to ride on entities. such as mobs, creatures, players. etc etc.​
 
-**Version Supported**: 1.8.9 - 1.16.X
+**Version Supported**: 1.8.8 - 1.16.X
 
 ---
 
 **Available at**: [Spigot](https://www.spigotmc.org/resources/entityriding-1-8-8-1-16-3-let-your-players-enjoy-the-view.84332/)
 
 **Source at**: [GitHub](https://github.com/Tofpu/EntityRiding)
+
+---
+
+![Image of ExtraLobby](https://github.com/Tofpu/media/blob/master/images/banners/ExtraLobby_Banner.png?raw=true)
+
+**Name**: ExtraLobby
+
+**Description**: An addon to bundle with your already existing lobby plugin!
+
+**Version Supported**: 1.8.8 - 1.16.X
+
+---
+
+**Available at**: [Spigot](https://www.spigotmc.org/resources/extralobby-1-8-8-1-16-4-an-addon-for-lobby-plugins.87363/)
+
+**Source at**: [GitHub](https://github.com/Tofpu/ExtraLobby)
 
 ---
 
