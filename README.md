@@ -57,9 +57,9 @@
 
 ---
 
-![Image of ExtraLobby](https://github.com/Tofpu/media/blob/master/images/banners/ExtraLobby_Banner.png?raw=true)
+![Image of SpareLobby](https://github.com/Tofpu/media/blob/master/images/banners/ExtraLobby_Banner.png?raw=true)
 
-**Name**: ExtraLobby
+**Name**: SpareLobby
 
 **Description**: An addon to bundle with your already existing lobby plugin!
 
@@ -67,9 +67,9 @@
 
 ---
 
-**Available at**: [Spigot](https://www.spigotmc.org/resources/extralobby-1-8-8-1-16-4-an-addon-for-lobby-plugins.87363/)
+**Available at**: [Spigot](https://www.spigotmc.org/resources/sparelobby-an-addon-for-lobby-plugins.87363/)
 
-**Source at**: [GitHub](https://github.com/Tofpu/ExtraLobby)
+**Source at**: [GitHub](https://github.com/Tofpu/SpareLobby)
 
 ---
 
