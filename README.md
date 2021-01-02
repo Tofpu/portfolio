@@ -57,7 +57,7 @@
 
 ---
 
-![Image of SpareLobby](https://github.com/Tofpu/media/blob/master/images/banners/ExtraLobby_Banner.png?raw=true)
+![Image of SpareLobby](https://github.com/Tofpu/media/blob/master/images/banners/SpareLobby_Banner.png?raw=true)
 
 **Name**: SpareLobby
 
