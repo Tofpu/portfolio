@@ -25,11 +25,11 @@
 
 ---
 
-![Image of MobPreventer](https://cdn.discordapp.com/attachments/772170600033681419/772171440756883496/mobpreventer_banner.png)
+![Image of MobPreventer](https://github.com/Tofpu/media/raw/master/images/banners/mobpreventer2_banner.png?raw=true)
 
 **Name**: MobPreventer
 
-**Description**: A plugin which its purpose is to prevent certain mobs from spawning into your world.​
+**Description**: Ever wanted to get rid of a mob that you very much hated? You could with this plugin! from blacklisting it to whitelisting it with per-world support.
 
 **Version Supported**: 1.8.8 - 1.16.X
 
