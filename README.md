@@ -5,17 +5,17 @@
 ### Public Projects
 
 ---
-[SpeedBridge](https://github.com/Tofpu/Portfolio/blob/main/projects/speedbridge.md)
+[SpeedBridge](projects/speedbridge.md)
 
-[Contract](https://github.com/Tofpu/Portfolio/blob/main/projects/contract.md)
+[Contract](projects/contract.md)
 
-[LockedDimension](https://github.com/Tofpu/Portfolio/blob/main/projects/lockeddimension.md)
+[LockedDimension](projects/lockeddimension.md)
 
-[MobPreventer](https://github.com/Tofpu/Portfolio/blob/main/projects/mobpreventer.md)
+[MobPreventer](projects/mobpreventer.md)
 
-[SpareLobby](https://github.com/Tofpu/Portfolio/blob/main/projects/sparelobby.md)
+[SpareLobby](projects/sparelobby.md)
 
-[Doubloon](https://github.com/Tofpu/Portfolio/blob/main/projects/doubloon.md)
+[Doubloon](projects/doubloon.md)
 
 ---
 ### Private Projects
