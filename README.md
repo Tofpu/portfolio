@@ -28,13 +28,6 @@
 
 ---
 
-### Doubloon:
-**Description**: A balance based plugin.
-
-![Image of Doubloon](https://cdn.discordapp.com/attachments/772170600033681419/772225431024828416/unknown_2.png)
-
----
-
 ### Private Message:
 **Description**: A private message system.
 
