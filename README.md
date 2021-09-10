@@ -5,74 +5,18 @@
 ### Public Projects
 
 ---
+[SpeedBridge](https://github.com/Tofpu/Portfolio/blob/main/projects/speedbridge.md)
 
-![Image of LockedDimension](https://cdn.discordapp.com/attachments/772170600033681419/772170644771176458/LockedDimension_bannar.png) 
+[Contract](https://github.com/Tofpu/Portfolio/blob/main/projects/contract.md)
 
+[LockedDimension](https://github.com/Tofpu/Portfolio/blob/main/projects/lockeddimension.md)
 
-**Name**: LockedDimension
+[MobPreventer](https://github.com/Tofpu/Portfolio/blob/main/projects/mobpreventer.md)
 
-**Description**: You could disable, lock dimensions behind permissions nodes, and much more. all within a single plugin.​
+[SpareLobby](https://github.com/Tofpu/Portfolio/blob/main/projects/sparelobby.md)
 
-**Version Supported**: 1.8.9 - 1.16.X
-
---- 
-
-**Available at**: [Spigot](https://www.spigotmc.org/resources/lockeddimension-1-8-8-1-16-3-have-freedom-over-your-dimensions.84331/)
-
-**Source at**: [GitHub](https://github.com/Tofpu/LockedDimension)
-
-
-
+[Doubloon](https://github.com/Tofpu/Portfolio/blob/main/projects/doubloon.md)
 ---
-
-![Image of MobPreventer](https://github.com/Tofpu/media/raw/master/images/banners/mobpreventer2_banner.png?raw=true)
-
-**Name**: MobPreventer
-
-**Description**: Ever wanted to get rid of a mob that you very much hated? You could with this plugin! from blacklisting it to whitelisting it with per-world support.
-
-**Version Supported**: 1.8.8 - 1.16.X
-
----
-
-**Available at**: [Spigot](https://www.spigotmc.org/resources/mobpreventer-1-8-8-1-16-3-prevent-mobs-from-spawning-into-your-world.84308/)
-
-**Source at**: [GitHub](https://github.com/Tofpu/MobPreventer)
-
----
-
-![Image of EntityRiding](https://cdn.discordapp.com/attachments/772170600033681419/772171802767523840/entityriding_bannar.png)
-
-**Name**: EntityRiding
-
-**Description**: Gives the players the ability to ride on entities. such as mobs, creatures, players. etc etc.​
-
-**Version Supported**: 1.8.8 - 1.16.X
-
----
-
-**Available at**: [Spigot](https://www.spigotmc.org/resources/entityriding-1-8-8-1-16-3-let-your-players-enjoy-the-view.84332/)
-
-**Source at**: [GitHub](https://github.com/Tofpu/EntityRiding)
-
----
-
-![Image of SpareLobby](https://github.com/Tofpu/media/blob/master/images/banners/SpareLobby_Banner.png?raw=true)
-
-**Name**: SpareLobby
-
-**Description**: An addon to bundle with your already existing lobby plugin!
-
-**Version Supported**: 1.8.8 - 1.16.X
-
----
-
-**Available at**: [Spigot](https://www.spigotmc.org/resources/sparelobby-an-addon-for-lobby-plugins.87363/)
-
-**Source at**: [GitHub](https://github.com/Tofpu/SpareLobby)
-
----
-
 ### Private Projects
 
 ---
@@ -98,7 +42,7 @@
 ---
 
 ### Custom Bosses:
-![Image of Custom Bosses](https://github.com/Tofpu/Portfolio/blob/main/media/acm_3.png)
+![Image of Custom Bosses](media/acm_3.png)
 
 ---
 
