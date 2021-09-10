@@ -16,6 +16,7 @@
 [SpareLobby](https://github.com/Tofpu/Portfolio/blob/main/projects/sparelobby.md)
 
 [Doubloon](https://github.com/Tofpu/Portfolio/blob/main/projects/doubloon.md)
+
 ---
 ### Private Projects
 
